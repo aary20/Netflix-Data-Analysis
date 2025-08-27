@@ -54,3 +54,11 @@ Netflix-Data-Analysis/
 - Release Patterns: Trends in content addition by month or year.
 
 - Ratings & Demographics: Analysis of content ratings (TV-MA, TV-14, etc.) and audience targeting.
+
+
+## Result
+<img width="400" height="250" alt="movie_duration_histogram" src="https://github.com/user-attachments/assets/e5a89f05-1a44-445e-b3e0-29c634c37e0e" />
+<img width="600" height="250" alt="movies_tv_shows_comparison" src="https://github.com/user-attachments/assets/922b605b-30dc-474b-8d89-68c7f7c5cc90" />
+<img width="400" height="250" alt="movies_vs_tvshows" src="https://github.com/user-attachments/assets/15545252-3e5d-4164-a4cc-30583bf064ec" />
+<img width="400" height="250" alt="release_year_Scatter" src="https://github.com/user-attachments/assets/dbb478fe-fd27-4bde-8bc6-60703423b674" />
+<img width="400" height="250" alt="top10_countries" src="https://github.com/user-attachments/assets/2e5d55da-d367-4fb3-b7a1-563d8c5c8f9e" />
